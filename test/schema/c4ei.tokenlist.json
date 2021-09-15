@@ -1,9 +1,9 @@
 {
   "name": "C4EI List",
-  "timestamp": "2021-09-15T12:00:00+00:00",
+  "timestamp": "2021-09-15T20:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "keywords": [
@@ -73,6 +73,27 @@
       "chainId": 21004,
       "name": "Ethereum C4Token",
       "symbol": "C4ETH",
+      "decimals": 9
+    },
+    {
+      "address": "0x368aB5E3330746974a8e221F29ef8a71eC074242",
+      "chainId": 56,
+      "name": "GoodGameBe",
+      "symbol": "GGB",
+      "decimals": 18
+    },
+    {
+      "address": "0x0F3A4B199211b14Ed334F87Ef5acEA13Aba330A5",
+      "chainId": 56,
+      "name": "Citypay",
+      "symbol": "CTP",
+      "decimals": 9
+    },
+    {
+      "address": "0xF99aCcabD9121F9E584fBae833D84d25B5b97B6b",
+      "chainId": 56,
+      "name": "CITI",
+      "symbol": "CITI",
       "decimals": 9
     },
     {
