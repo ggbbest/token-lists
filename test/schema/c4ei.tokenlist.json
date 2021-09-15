@@ -1,0 +1,93 @@
+{
+  "name": "C4EI List",
+  "timestamp": "2021-09-15T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "c4ei",
+    "default",
+    "list"
+  ],
+  "tokens": [
+    {
+      "address": "0x16f08dacad24414CAeb7FF107136f382DFD72a0C",
+      "chainId": 21004,
+      "name": "C4ei Swap Token",
+      "symbol": "C4SWAP",
+      "decimals": 9
+    },
+    {
+      "address": "0x52583DE31880770CC1F020ecB3862b61E4B1dF7E",
+      "chainId": 21004,
+      "name": "BlockChainKorea",
+      "symbol": "BCK",
+      "decimals": 9
+    },
+    {
+      "address": "0x35B455A6E2257555340Fe5A3e853D773119B5984",
+      "chainId": 21004,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "address": "0xCEbB8C6646A6a3122E636CD6461Be801460790f3",
+      "chainId": 21004,
+      "name": "RENTAL",
+      "symbol": "RNT",
+      "decimals": 9
+    },
+    {
+      "address": "0xf897Bf5C4c6A7dEAF503F9f4132FF4B6970043aD",
+      "chainId": 21004,
+      "name": "UNI token",
+      "symbol": "UNI",
+      "decimals": 9
+    },
+    {
+      "address": "0x4aE4bbD08174117c9B0C2ca0D196812a976C907E",
+      "chainId": 21004,
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 9
+    },
+    {
+      "address": "0x5d8e0FA14705F178ed0b3cEe22EF467e616B3BC9",
+      "chainId": 21004,
+      "name": "C4BNB Token ",
+      "symbol": "C4BNB",
+      "decimals": 9
+    },
+    {
+      "address": "0x611E3cA33748C44585f119c41Ecc5854Ac034927",
+      "chainId": 21004,
+      "name": "BTC Token",
+      "symbol": "C4BTC",
+      "decimals": 9
+    },
+    {
+      "address": "0x9655f46E960854fb07FEc3BD52ebB6cd872d4c81",
+      "chainId": 21004,
+      "name": "Ethereum C4Token",
+      "symbol": "C4ETH",
+      "decimals": 9
+    },
+    {
+      "address": "0x79f63c0C92DcA95F578B03693f966FA202799A34",
+      "chainId": 21004,
+      "name": "Token1",
+      "symbol": "Token1",
+      "decimals": 18
+    },
+    {
+      "address": "0x2055ecd232ac2C8766647d8876a27efC54e570C2",
+      "chainId": 21004,
+      "name": "Token2",
+      "symbol": "Token2",
+      "decimals": 18
+    }
+  ]
+}
