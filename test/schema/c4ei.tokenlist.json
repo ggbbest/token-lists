@@ -4,7 +4,7 @@
   "timestamp": "2021-09-16T12:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "keywords": [
@@ -81,21 +81,24 @@
       "chainId": 56,
       "name": "GoodGameBe",
       "symbol": "GGB",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/M80vcns/ggb32.png"
     },
     {
       "address": "0x0F3A4B199211b14Ed334F87Ef5acEA13Aba330A5",
       "chainId": 56,
       "name": "Citypay",
       "symbol": "CTP",
-      "decimals": 9
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/XC2yzRn/ctp32.png"
     },
     {
       "address": "0xF99aCcabD9121F9E584fBae833D84d25B5b97B6b",
       "chainId": 56,
       "name": "CITI",
       "symbol": "CITI",
-      "decimals": 9
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/MkND7P1/citi32.png"
     },
     {
       "address": "0x49f6f44f6af0e93be1598d7b1940c205f384b1b7",
