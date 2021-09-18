@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2021-09-16T12:00:00+00:00",
+  "timestamp": "2021-09-18T12:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "keywords": [
@@ -30,7 +30,7 @@
       "logoURI": "https://i.ibb.co/hYftGLk/bckx128t.png"
     },
     {
-      "address": "0x35B455A6E2257555340Fe5A3e853D773119B5984",
+      "address": "0xE94b78D58826eca66a921cEc0E3Bc40BC6707897",
       "chainId": 21004,
       "name": "Wrapped Ether",
       "symbol": "WETH",
@@ -82,14 +82,14 @@
       "decimals": 9
     },
     {
-      "address": "0x79f63c0C92DcA95F578B03693f966FA202799A34",
+      "address": "0x38C8344A1b93B99084895291075A7522CDBfC688",
       "chainId": 21004,
       "name": "Token1",
       "symbol": "Token1",
       "decimals": 18
     },
     {
-      "address": "0x2055ecd232ac2C8766647d8876a27efC54e570C2",
+      "address": "0x8c810097C6fa2109C76f4C10De5786156B8603C2",
       "chainId": 21004,
       "name": "Token2",
       "symbol": "Token2",
