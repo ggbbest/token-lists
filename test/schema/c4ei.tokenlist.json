@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2021-09-18T12:00:00+00:00",
+  "timestamp": "2021-09-20T12:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 7,
     "patch": 0
   },
   "keywords": [
@@ -30,14 +30,6 @@
       "logoURI": "https://i.ibb.co/hYftGLk/bckx128t.png"
     },
     {
-      "address": "0xE94b78D58826eca66a921cEc0E3Bc40BC6707897",
-      "chainId": 21004,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://i.ibb.co/vVhpGPp/wethx128t.png"
-    },
-    {
       "address": "0xCEbB8C6646A6a3122E636CD6461Be801460790f3",
       "chainId": 21004,
       "name": "RENTAL",
@@ -46,55 +38,68 @@
       "logoURI": "https://i.ibb.co/C58Hkc4/rntx128t.png"
     },
     {
-      "address": "0xf897Bf5C4c6A7dEAF503F9f4132FF4B6970043aD",
+      "address": "0xE94b78D58826eca66a921cEc0E3Bc40BC6707897",
       "chainId": 21004,
-      "name": "UNI token",
-      "symbol": "UNI",
-      "decimals": 9,
-      "logoURI": "https://i.ibb.co/hXxhZzR/unix128t.png"
-    },
-    {
-      "address": "0x4aE4bbD08174117c9B0C2ca0D196812a976C907E",
-      "chainId": 21004,
-      "name": "Wrapped BNB",
-      "symbol": "WBNB",
-      "decimals": 9
-    },
-    {
-      "address": "0x5d8e0FA14705F178ed0b3cEe22EF467e616B3BC9",
-      "chainId": 21004,
-      "name": "C4BNB Token ",
-      "symbol": "C4BNB",
-      "decimals": 9
-    },
-    {
-      "address": "0x611E3cA33748C44585f119c41Ecc5854Ac034927",
-      "chainId": 21004,
-      "name": "BTC Token",
-      "symbol": "C4BTC",
-      "decimals": 9
-    },
-    {
-      "address": "0x9655f46E960854fb07FEc3BD52ebB6cd872d4c81",
-      "chainId": 21004,
-      "name": "Ethereum C4Token",
-      "symbol": "C4ETH",
-      "decimals": 9
-    },
-    {
-      "address": "0x38C8344A1b93B99084895291075A7522CDBfC688",
-      "chainId": 21004,
-      "name": "Token1",
-      "symbol": "Token1",
-      "decimals": 18
-    },
-    {
-      "address": "0x8c810097C6fa2109C76f4C10De5786156B8603C2",
-      "chainId": 21004,
-      "name": "Token2",
-      "symbol": "Token2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://i.ibb.co/f20f3zF/token2x128t.png"
+      "logoURI": "https://i.ibb.co/vVhpGPp/wethx128t.png"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://images.prismic.io/token-price-prod/d0352dd9-5de8-4633-839d-bc3422c44d9c_UNI%404x.png"
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://crypto.com/price/coin-data/icon/USDC/color_icon.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://crypto.com/price/coin-data/icon/USDT/color_icon.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://images.prismic.io/token-price-prod/c27778b1-f402-45f0-9225-f24f24b0518a_WBTC-xxxhdpi.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
+    },
+    {
+      "name": "Crypto.com Coin",
+      "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+      "symbol": "CRO",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://crypto.com/price/coin-data/icon/CRO/color_icon.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://crypto.com/price/coin-data/icon/DAI/color_icon.png"
     }
   ]
 }
