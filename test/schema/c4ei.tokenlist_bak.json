@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2021-09-22T12:59:00+00:00",
+  "timestamp": "2021-09-22T12:50:00+00:00",
   "version": {
     "major": 1,
-    "minor": 10,
+    "minor": 9,
     "patch": 0
   },
   "keywords": [
@@ -70,12 +70,28 @@
       "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
     },
     {
-      "address": "0x49f6f44f6af0e93be1598d7b1940c205f384b1b7",
-      "chainId": 1,
-      "name": "GoodGameBe ETH",
-      "symbol": "GGB",
-      "decimals": 18,
-      "logoURI": "https://i.ibb.co/mHVK3WS/ggb-Eth256.png"
+      "name": "CEI SWAP",
+      "address": "0x95CA62cB94a37bE3D4930e05D1F7f6A1Ee202B9F",
+      "symbol": "CEI",
+      "decimals": 8,
+      "chainId": 21004,
+      "logoURI": "https://i.ibb.co/HKstWG9/cei256.png"
+    },
+    {
+      "address": "0x52583DE31880770CC1F020ecB3862b61E4B1dF7E",
+      "chainId": 21004,
+      "name": "BlockChainKorea",
+      "symbol": "BCK",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/hYftGLk/bckx128t.png"
+    },
+    {
+      "address": "0xCEbB8C6646A6a3122E636CD6461Be801460790f3",
+      "chainId": 21004,
+      "name": "RENTAL",
+      "symbol": "RNT",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/C58Hkc4/rntx128t.png"
     }
   ]
 }
