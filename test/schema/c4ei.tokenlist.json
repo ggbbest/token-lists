@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2021-09-22T12:00:00+00:00",
+  "timestamp": "2021-09-22T12:50:00+00:00",
   "version": {
     "major": 1,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "keywords": [
@@ -13,14 +13,6 @@
     "list"
   ],
   "tokens": [
-    {
-      "name": "CEI SWAP",
-      "address": "0x95CA62cB94a37bE3D4930e05D1F7f6A1Ee202B9F",
-      "symbol": "CEI",
-      "decimals": 8,
-      "chainId": 21004,
-      "logoURI": "https://i.ibb.co/HKstWG9/cei256.png"
-    },
     {
       "name": "Dai Stablecoin",
       "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -76,6 +68,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
+    },
+    {
+      "name": "CEI SWAP",
+      "address": "0x95CA62cB94a37bE3D4930e05D1F7f6A1Ee202B9F",
+      "symbol": "CEI",
+      "decimals": 8,
+      "chainId": 21004,
+      "logoURI": "https://i.ibb.co/HKstWG9/cei256.png"
     },
     {
       "address": "0x52583DE31880770CC1F020ecB3862b61E4B1dF7E",
