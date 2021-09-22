@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2021-09-20T12:00:00+00:00",
+  "timestamp": "2021-09-22T12:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "keywords": [
@@ -14,36 +14,28 @@
   ],
   "tokens": [
     {
-      "address": "0x16f08dacad24414CAeb7FF107136f382DFD72a0C",
+      "name": "CEI SWAP",
+      "address": "0x95CA62cB94a37bE3D4930e05D1F7f6A1Ee202B9F",
+      "symbol": "CEI",
+      "decimals": 8,
       "chainId": 21004,
-      "name": "C4ei Swap Token",
-      "symbol": "C4SWAP",
-      "decimals": 9,
-      "logoURI": "https://i.ibb.co/9qJ2TRZ/c4swapx128t.png"
+      "logoURI": "https://i.ibb.co/HKstWG9/cei256.png"
     },
     {
-      "address": "0x52583DE31880770CC1F020ecB3862b61E4B1dF7E",
-      "chainId": 21004,
-      "name": "BlockChainKorea",
-      "symbol": "BCK",
-      "decimals": 9,
-      "logoURI": "https://i.ibb.co/hYftGLk/bckx128t.png"
-    },
-    {
-      "address": "0xCEbB8C6646A6a3122E636CD6461Be801460790f3",
-      "chainId": 21004,
-      "name": "RENTAL",
-      "symbol": "RNT",
-      "decimals": 9,
-      "logoURI": "https://i.ibb.co/C58Hkc4/rntx128t.png"
-    },
-    {
-      "address": "0xE94b78D58826eca66a921cEc0E3Bc40BC6707897",
-      "chainId": 21004,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
+      "name": "Dai Stablecoin",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://i.ibb.co/vVhpGPp/wethx128t.png"
+      "chainId": 1,
+      "logoURI": "https://crypto.com/price/coin-data/icon/DAI/color_icon.png"
+    },
+    {
+      "name": "ChainLink Token",
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://crypto.com/price/coin-data/icon/LINK/color_icon.png"
     },
     {
       "name": "Uniswap",
@@ -86,20 +78,20 @@
       "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
     },
     {
-      "name": "Crypto.com Coin",
-      "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
-      "symbol": "CRO",
-      "decimals": 8,
-      "chainId": 1,
-      "logoURI": "https://crypto.com/price/coin-data/icon/CRO/color_icon.png"
+      "address": "0x52583DE31880770CC1F020ecB3862b61E4B1dF7E",
+      "chainId": 21004,
+      "name": "BlockChainKorea",
+      "symbol": "BCK",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/hYftGLk/bckx128t.png"
     },
     {
-      "name": "Dai Stablecoin",
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://crypto.com/price/coin-data/icon/DAI/color_icon.png"
+      "address": "0xCEbB8C6646A6a3122E636CD6461Be801460790f3",
+      "chainId": 21004,
+      "name": "RENTAL",
+      "symbol": "RNT",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/C58Hkc4/rntx128t.png"
     }
   ]
 }
