@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2021-12-25T12:59:00+00:00",
+  "timestamp": "2021-12-26T12:59:00+00:00",
   "version": {
     "major": 1,
-    "minor": 11,
+    "minor": 12,
     "patch": 0
   },
   "keywords": [
@@ -22,6 +22,14 @@
       "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
     },
     {
+      "name": "C4EI SwaP",
+      "address": "0xAa44E71f896b7470CDF1b45139820848679D5e87",
+      "symbol": "CSP",
+      "decimals": 8,
+      "chainId": 21004,
+      "logoURI": "https://i.ibb.co/9qJ2TRZ/c4swapx128t.png"
+    },
+    {
       "name": "Block Chain Korea",
       "address": "0x1d187bbecef8d7b1731339c301ab8354d4f0a50b",
       "symbol": "BCK",
@@ -35,28 +43,28 @@
       "symbol": "RNT",
       "decimals": 18,
       "chainId": 21004,
-      "logoURI": "https://i.ibb.co/hYftGLk/bckx128t.png"
+      "logoURI": "https://i.ibb.co/C58Hkc4/rntx128t.png"
     },
     {
-      "address": "0x58a3f3237ac6dd279702f2ec02c36ab536ff08e1",
-      "chainId": 21004,
       "name": "Block Chain World",
+      "address": "0x58a3f3237ac6dd279702f2ec02c36ab536ff08e1",
       "symbol": "BCW",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 21004
     },
     {
-      "address": "0x3bfad733467957B89963c961a937E752b7901eB8",
-      "chainId": 21004,
       "name": "ROY coin",
+      "address": "0x3bfad733467957B89963c961a937E752b7901eB8",
       "symbol": "ROY",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 21004
     },
     {
-      "address": "0x49f6f44f6af0e93be1598d7b1940c205f384b1b7",
-      "chainId": 1,
       "name": "GoodGameBe ETH",
+      "address": "0x49f6f44f6af0e93be1598d7b1940c205f384b1b7",
       "symbol": "GGB",
       "decimals": 18,
+      "chainId": 1,
       "logoURI": "https://i.ibb.co/mHVK3WS/ggb-Eth256.png"
     }
   ]
