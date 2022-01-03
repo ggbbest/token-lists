@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2021-12-26T12:59:00+00:00",
+  "timestamp": "2022-01-03T12:59:00+00:00",
   "version": {
     "major": 1,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   },
   "keywords": [
@@ -15,10 +15,18 @@
   "tokens": [
     {
       "name": "Wrapped Ether",
-      "address": "0xE94b78D58826eca66a921cEc0E3Bc40BC6707897",
+      "address": "0x231108c9379FD75D23C2F49865fcB99BfE437344",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 21004,
+      "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xc6d547d7d6ed32a69a2e2fbd79de42c457b95792",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 8217,
       "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
     },
     {
@@ -66,6 +74,22 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://i.ibb.co/mHVK3WS/ggb-Eth256.png"
-    }
+    },
+    {
+      "name": "swapCEIK",
+      "address": "0x8FfDaB5A5749F88Ef3A8149fe022222c9B041b7a",
+      "symbol": "sCEIK",
+      "decimals": 18,
+      "chainId": 21004,
+      "logoURI": ""
+    },
+    {
+      "name": "C4EI 4 Klay",
+      "address": "0x18814b01b5CC76F7043E10fd268cc4364dF47dA0",
+      "symbol": "CEIK",
+      "decimals": 8,
+      "chainId": 8217,
+      "logoURI": "https://s.klayswap.com/img/token/ic-ceik.png"
+    },
   ]
 }
