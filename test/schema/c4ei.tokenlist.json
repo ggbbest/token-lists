@@ -1,11 +1,11 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2022-01-02T12:59:00+00:00",
+  "timestamp": "2022-01-03T12:59:00+00:00",
   "version": {
     "major": 1,
-    "minor": 13,
-    "patch": 1
+    "minor": 14,
+    "patch": 0
   },
   "keywords": [
     "c4ei",
