@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2022-01-03T12:59:02+00:00",
+  "timestamp": "2022-01-03T12:59:03+00:00",
   "version": {
     "major": 1,
-    "minor": 17,
+    "minor": 18,
     "patch": 0
   },
   "keywords": [
@@ -51,6 +51,13 @@
       "decimals": 18,
       "chainId": 21004,
       "logoURI": "https://i.ibb.co/9qJ2TRZ/c4swapx128t.png"
+    },
+    {
+      "name": "CRO",
+      "address": "0xd6aA777083834A4E64B12770c4579B35baaA4075",
+      "symbol": "CRO",
+      "decimals": 18,
+      "chainId": 21004
     },
     {
       "name": "RENTAL",
