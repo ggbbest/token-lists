@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2022-01-03T12:59:01+00:00",
+  "timestamp": "2022-01-03T12:59:02+00:00",
   "version": {
     "major": 1,
-    "minor": 15,
+    "minor": 16,
     "patch": 0
   },
   "keywords": [
@@ -14,18 +14,18 @@
   ],
   "tokens": [
     {
-      "name": "Wrapped Ether",
-      "address": "0x231108c9379FD75D23C2F49865fcB99BfE437344",
-      "symbol": "WETH",
+      "name": "Wrapped C4EI",
+      "address": "0x9E63f92c2D1F3826111846bAd89210293C7F4060",
+      "symbol": "WC4EI",
       "decimals": 18,
       "chainId": 21004,
       "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
     },
     {
-      "name": "C4EI SwaP",
-      "address": "0xAa44E71f896b7470CDF1b45139820848679D5e87",
-      "symbol": "CSP",
-      "decimals": 8,
+      "name": "C4EI Farm Token",
+      "address": "0xE449b77f37F9721E0DdE586D5D587213BD34308A",
+      "symbol": "CFT",
+      "decimals": 18,
       "chainId": 21004,
       "logoURI": "https://i.ibb.co/9qJ2TRZ/c4swapx128t.png"
     },
@@ -60,13 +60,6 @@
       "chainId": 21004
     },
     {
-      "name": "swapCEIK",
-      "address": "0x8FfDaB5A5749F88Ef3A8149fe022222c9B041b7a",
-      "symbol": "sCEIK",
-      "decimals": 18,
-      "chainId": 21004
-    },
-    {
       "name": "Wrapped Ether",
       "address": "0xc6d547d7d6ed32a69a2e2fbd79de42c457b95792",
       "symbol": "WETH",
@@ -81,14 +74,6 @@
       "decimals": 8,
       "chainId": 8217,
       "logoURI": "https://s.klayswap.com/img/token/ic-ceik.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
     },
     {
       "name": "GoodGameBe ETH",
