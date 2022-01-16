@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2022-01-03T12:59:03+00:00",
+  "timestamp": "2022-01-00T12:59:03+00:00",
   "version": {
     "major": 1,
-    "minor": 18,
+    "minor": 19,
     "patch": 0
   },
   "keywords": [
@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "Wrapped Ether",
-      "address": "0x317b24679FCB2DDF140cBA39Cb9373D42BD6D771",
+      "address": "0xE94b78D58826eca66a921cEc0E3Bc40BC6707897",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 21004,
@@ -66,14 +66,6 @@
       "decimals": 18,
       "chainId": 21004,
       "logoURI": "https://i.ibb.co/C58Hkc4/rntx128t.png"
-    },
-    {
-      "name": "GoodGameBe ETH",
-      "address": "0x49f6f44f6af0e93be1598d7b1940c205f384b1b7",
-      "symbol": "GGB",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://i.ibb.co/mHVK3WS/ggb-Eth256.png"
     }
   ]
 }
