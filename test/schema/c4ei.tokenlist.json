@@ -5,7 +5,7 @@
   "version": {
     "major": 1,
     "minor": 20,
-    "patch": 0
+    "patch": 1
   },
   "keywords": [
     "c4ei",
@@ -13,14 +13,6 @@
     "list"
   ],
   "tokens": [
-    {
-      "name": "Wrapped Ether",
-      "address": "0x9783061644bd8F41944EF71a6A73FC575F5a2A96",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 21004,
-      "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
-    },
     {
       "name": "Block Chain World",
       "address": "0x58a3f3237ac6dd279702f2ec02c36ab536ff08e1",
