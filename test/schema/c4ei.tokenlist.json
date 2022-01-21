@@ -4,7 +4,7 @@
   "timestamp": "2022-01-00T12:59:03+00:00",
   "version": {
     "major": 1,
-    "minor": 19,
+    "minor": 20,
     "patch": 0
   },
   "keywords": [
@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "Wrapped Ether",
-      "address": "0xE94b78D58826eca66a921cEc0E3Bc40BC6707897",
+      "address": "0x9783061644bd8F41944EF71a6A73FC575F5a2A96",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 21004,
