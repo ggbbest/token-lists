@@ -1,11 +1,11 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/5BDCDVs/c4eix256t.png",
-  "timestamp": "2022-01-00T12:59:03+00:00",
+  "timestamp": "2022-01-10T12:59:03+00:00",
   "version": {
-    "major": 1,
-    "minor": 20,
-    "patch": 1
+    "major": 2,
+    "minor": 1,
+    "patch": 0
   },
   "keywords": [
     "c4ei",
@@ -15,14 +15,14 @@
   "tokens": [
     {
       "name": "Block Chain World",
-      "address": "0x58a3f3237ac6dd279702f2ec02c36ab536ff08e1",
+      "address": "0x58A3F3237Ac6DD279702f2ec02C36ab536FF08e1",
       "symbol": "BCW",
       "decimals": 18,
       "chainId": 21004
     },
     {
       "name": "Block Chain Korea",
-      "address": "0x1d187bbecef8d7b1731339c301ab8354d4f0a50b",
+      "address": "0x1d187BbeCeF8d7b1731339c301ab8354d4F0A50b",
       "symbol": "BCK",
       "decimals": 18,
       "chainId": 21004,
@@ -58,6 +58,20 @@
       "decimals": 18,
       "chainId": 21004,
       "logoURI": "https://i.ibb.co/C58Hkc4/rntx128t.png"
+    },
+    {
+      "name": "Wrap C4EI",
+      "address": "0x9E63f92c2D1F3826111846bAd89210293C7F4060",
+      "symbol": "WC4EI",
+      "decimals": 18,
+      "chainId": 21004
+    },
+    {
+      "name": "swap CEIK",
+      "address": "0x8FfDaB5A5749F88Ef3A8149fe022222c9B041b7a",
+      "symbol": "sCEIK",
+      "decimals": 18,
+      "chainId": 21004
     }
   ]
 }
