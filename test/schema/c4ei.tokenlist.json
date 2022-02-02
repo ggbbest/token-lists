@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/DQd2GBF/c4eix256t-Logo.png",
-  "timestamp": "2022-01-12T12:59:03+00:00",
+  "timestamp": "2022-01-22T12:59:03+00:00",
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 1
   },
   "keywords": [
@@ -56,6 +56,13 @@
       "name": "swap CEIK",
       "address": "0x8FfDaB5A5749F88Ef3A8149fe022222c9B041b7a",
       "symbol": "sCEIK",
+      "decimals": 18,
+      "chainId": 21004
+    },
+    {
+      "name": "CERU",
+      "address": "0xd6aA777083834A4E64B12770c4579B35baaA4075",
+      "symbol": "CERU",
       "decimals": 18,
       "chainId": 21004
     }
