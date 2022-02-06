@@ -1,10 +1,10 @@
 {
   "name": "C4EI List",
   "logoURI": "https://i.ibb.co/DQd2GBF/c4eix256t-Logo.png",
-  "timestamp": "2022-01-25T12:59:03+00:00",
+  "timestamp": "2022-01-26T12:59:03+00:00",
   "version": {
     "major": 2,
-    "minor": 4,
+    "minor": 5,
     "patch": 1
   },
   "keywords": [
@@ -13,13 +13,6 @@
     "list"
   ],
   "tokens": [
-    {
-      "name": "UNI C4EI",
-      "address": "0xeBE5769Bfb761416Bb533c70d6d6013de21e46CE",
-      "symbol": "UNI",
-      "decimals": 18,
-      "chainId": 21004
-    },
     {
       "name": "Block Chain World",
       "address": "0x58A3F3237Ac6DD279702f2ec02C36ab536FF08e1",
