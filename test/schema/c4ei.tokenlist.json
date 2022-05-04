@@ -4,7 +4,7 @@
   "timestamp": "2022-01-27T12:59:03+00:00",
   "version": {
     "major": 2,
-    "minor": 5,
+    "minor": 6,
     "patch": 2
   },
   "keywords": [
@@ -29,42 +29,12 @@
       "logoURI": "https://i.ibb.co/hYftGLk/bckx128t.png"
     },
     {
-      "name": "Wrapped C4EI",
-      "address": "0x9E63f92c2D1F3826111846bAd89210293C7F4060",
-      "symbol": "WC4EI",
-      "decimals": 18,
-      "chainId": 21004,
-      "logoURI": "https://i.ibb.co/DQd2GBF/c4eix256t-Logo.png"
-    },
-    {
-      "name": "C4EI Farm Token",
-      "address": "0xE449b77f37F9721E0DdE586D5D587213BD34308A",
-      "symbol": "CFT",
-      "decimals": 18,
-      "chainId": 21004,
-      "logoURI": "https://i.ibb.co/9qJ2TRZ/c4swapx128t.png"
-    },
-    {
       "name": "RENTAL",
       "address": "0x7E6af705dB981D0E391B4e063E39a6bbDF60e66f",
       "symbol": "RNT",
       "decimals": 18,
       "chainId": 21004,
       "logoURI": "https://i.ibb.co/C58Hkc4/rntx128t.png"
-    },
-    {
-      "name": "swap CEIK",
-      "address": "0x8FfDaB5A5749F88Ef3A8149fe022222c9B041b7a",
-      "symbol": "sCEIK",
-      "decimals": 18,
-      "chainId": 21004
-    },
-    {
-      "name": "CERU",
-      "address": "0xd6aA777083834A4E64B12770c4579B35baaA4075",
-      "symbol": "CERU",
-      "decimals": 18,
-      "chainId": 21004
     }
   ]
 }
